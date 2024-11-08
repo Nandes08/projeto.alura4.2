@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Bem-vindo ao Meu Projeto</h1>
+        <p>Explore o conteúdo abaixo</p>
+    </header>
+
+    <section class="content">
+        <h2>Sobre o Projeto</h2>
+        <p>Este projeto é um exemplo de uma página com imagem de fundo, usando HTML e CSS.</p>
+        <button>Saiba Mais</button>
+    </section>
+</body>
+</html>
